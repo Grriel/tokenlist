@@ -28,9 +28,50 @@
             "name": "WWDOGE",
             "symbol": "WWDOGE",
             "logoURI": "https://assets.coingecko.com/coins/images/26884/small/hb8hQIWP_400x400.jpeg?1660649560"
+        },
+        {
+            "chainId": 2000,
+            "address": "0xB44a9B6905aF7c801311e8F4E76932ee959c663C",
+            "decimals": 18,
+            "name": "ETH",
+            "symbol": "ETH",
+            "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2/logo.png"
+        },
+        {
+            "chainId": 2000,
+            "address": "0x765277EebeCA2e31912C9946eAe1021199B39C61",
+            "decimals": 18,
+            "name": "USDC",
+            "symbol": "USDC",
+            "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xA0b86991c6218b36c1d19D4a2e9Eb0cE3606eB48/logo.png"
+        },
+        {
+            "chainId": 2000,
+            "address": "0x639A647fbe20b6c8ac19E48E2de44ea792c62c5C",
+            "decimals": 18,
+            "name": "DAI",
+            "symbol": "DAI",
+            "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x6B175474E89094C44Da98b954EedeAC495271d0F/logo.png"
+        },
+        {
+            "chainId": 2000,
+            "address": "0xE3F5a90F9cb311505cd691a46596599aA1A0AD7D",
+            "decimals": 18,
+            "name": "USDT",
+            "symbol": "USDT",
+            "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xdAC17F958D2ee523a2206206994597C13D831ec7/logo.png"
+        },
+        {
+            "chainId": 2000,
+            "address": "0xfA9343C3897324496A05fC75abeD6bAC29f8A40f",
+            "decimals": 18,
+            "name": "WBTC",
+            "symbol": "WBTC",
+            "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x2260FAC5E5542a773Aa44fBCfeDf7C193bc2C599/logo.png"
         }
-           
+
+
 
     ],
-    "timestamp": "2022-09-23T12:00:00+00:00"
+    "timestamp": "2023-01-05T12:00:00+00:00"
 }
