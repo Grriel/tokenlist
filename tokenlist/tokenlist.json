@@ -68,6 +68,14 @@
             "name": "WBTC",
             "symbol": "WBTC",
             "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x2260FAC5E5542a773Aa44fBCfeDf7C193bc2C599/logo.png"
+        },
+        {
+            "chainId": 2000,
+            "address": "0x2BE0096B24343549E34224aa9aa297E99961023D",
+            "decimals": 18,
+            "name": "DogeShrek",
+            "symbol": "DogeShrek",
+            "logoURI": "https://raw.githubusercontent.com/dogeshrek/dogeshrektokenlist/main/tokens/dogeShrek.png"
         }
 
 
