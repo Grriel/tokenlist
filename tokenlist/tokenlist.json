@@ -76,8 +76,14 @@
             "name": "DogeShrek",
             "symbol": "DogeShrek",
             "logoURI": "https://raw.githubusercontent.com/dogeshrek/dogeshrektokenlist/main/tokens/dogeShrek.png"
-        }
-
+        },
+        {
+            "chainId": 2000,
+            "address": "0xBfbb7B1d22FF521a541170cAFE0C9A7F20d09c3B",
+            "decimals": 18,
+            "name": "Egod",
+            "symbol": "$SAVIOR",
+            "logoURI": ""
 
 
     ],
